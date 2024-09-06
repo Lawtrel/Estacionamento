@@ -1,0 +1,14 @@
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.exe
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.deps.json
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.runtimeconfig.json
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.dll
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\bin\Debug\net8.0\Sistema de Estacionamento.pdb
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfoInputs.cache
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.AssemblyInfo.cs
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.csproj.CoreCompileInputs.cache
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.dll
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\refint\Sistema de Estacionamento.dll
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.pdb
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\Sistema de Estacionamento.genruntimeconfig.cache
+c:\Users\Law\Documents\Projetos\Estacionamento\Sistema de Estacionamento\obj\Debug\net8.0\ref\Sistema de Estacionamento.dll
